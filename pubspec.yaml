@@ -73,6 +73,17 @@ flutter:
     - images/profile_pressed.png
     - images/wechat_normal.png
     - images/wechat_pressed.png
+    - images/find_pengyouquan.png
+    - images/find_shipinhao.png
+    - images/find_xiaochengxu.png
+    - images/find_kanyikan.png
+    - images/find_shopping.png
+    - images/find_soyiso.png
+    - images/find_yaoyiyao.png
+    - images/find_saoyisao.png
+    - images/find_local.png
+    - images/find_live.png
+    - images/find_game.png
 
   # An image asset can refer to one or more resolution-specific "variants", see
   # https://flutter.dev/assets-and-images/#resolution-aware
