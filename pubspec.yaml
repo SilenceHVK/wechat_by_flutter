@@ -71,6 +71,14 @@ flutter:
     - images/loading.jpg
     - images/profile_normal.png
     - images/profile_pressed.png
+    - images/profile_card.png
+    - images/profile_setting.png
+    - images/profile_header.jpeg
+    - images/profile_pic.png
+    - images/profile_biaoqing.png
+    - images/profile_video.png
+    - images/profile_soucang.png
+    - images/profile_service.png
     - images/wechat_normal.png
     - images/wechat_pressed.png
     - images/find_pengyouquan.png

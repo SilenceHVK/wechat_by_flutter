@@ -1,5 +1,4 @@
 import 'package:flutter/material.dart';
-import 'package:wechat_by_flutter/app.dart';
 
 class LoadingPage extends StatefulWidget {
   @override
